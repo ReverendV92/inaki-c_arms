@@ -1,0 +1,25 @@
+
+VertexLitGeneric
+{
+
+	$baseTexture models/jessev92/dods/weapons/frag/v_frag
+	$bumpmap effects/flat_normal
+	$lightwarptexture dev/identitylightwarp
+	$basemapluminancephongmask 1
+
+	$halflambert 1
+	$ambientocclusion 1
+	$nocull 1
+	$color2 "[ 1.5 1.5 1.5 ]"
+	
+	$phong 0
+	$phongboost 1
+	$phongexponent 10
+	$phongfresnelranges "[ 5 5 20 ]"
+
+	$detail detail/metal_detail_01
+	$detailscale 4
+	$detailblendfactor 0.95
+	$detailblendmode 0
+
+}

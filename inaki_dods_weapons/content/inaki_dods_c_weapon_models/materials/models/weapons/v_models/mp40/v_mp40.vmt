@@ -1,0 +1,27 @@
+
+VertexLitGeneric
+{
+
+	$baseTexture models/jessev92/dods/weapons/mp40/v_mp40
+	$bumpmap models/jessev92/dods/weapons/mp40/v_mp40_b
+	$lightwarptexture dev/identitylightwarp
+	$basemapluminancephongmask 1
+
+	$halflambert 1
+	$ambientocclusion 1
+	$ambientoccltexture models/jessev92/dods/weapons/mp40/v_mp40_ao
+	$nocull 0
+
+	$phong 1
+	//$phongexponent 69
+	$phongexponent models/jessev92/dods/weapons/mp40/v_mp40_x
+	$phongboost 1
+ 	$phongfresnelranges "[ 0.1 0.8 0.8 ]"
+	$phongalbedotint 1
+	
+	$detail detail/metal_detail_01
+	$detailscale 4
+	$detailblendfactor 0.95
+	$detailblendmode 0
+	
+}

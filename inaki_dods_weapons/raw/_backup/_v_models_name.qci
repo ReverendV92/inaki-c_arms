@@ -1,0 +1,4 @@
+//$definevariable modeldir inaki\weapons\c
+
+$definevariable modeldir jessev92/dods/weapons/
+$definevariable CArmSuffix _c
