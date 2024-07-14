@@ -5,3 +5,6 @@ These are the raw, uncompiled combo arms "c_arms" models for HL2, CS:S, and DoD:
 The arm meshes for HL2, CS:S, and DoD:S are included.
 
 The included readme files for each game dictate some minor issues or bits that could be improved upon.
+
+### Other Versions
+[GameBanana](https://gamebanana.com/mods/36086)
