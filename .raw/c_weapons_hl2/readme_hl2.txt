@@ -1,11 +1,11 @@
 
 Original gmod 13 source files for c_ weapons 
 Made by Iñaki
-Updates by Reverend V92 ( https://steamcommunity.com/id/JesseVanover/ )
+Updates by Reverend V92 ( https://steamcommunity.com/profiles/76561197998218505 )
 
 These are the clean files only needed for compiling, there are a lot of steps in the middle to get to the finished product.
 
-If have have trouble fell free to contact me at: https://steamcommunity.com/id/inakistuff/ or my email: dj_inaki@hotmail.com
+If have have trouble fell free to contact me at: https://steamcommunity.com/profiles/76561197991456139 or my email: dj_inaki@hotmail.com
 For more info check this blogpost: http://inakistuff.blogspot.com/2013/08/gmodviewmodels.html
 
 Notes for people who care and want to make them better:
