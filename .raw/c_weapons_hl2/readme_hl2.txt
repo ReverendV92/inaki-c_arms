@@ -9,7 +9,6 @@ If have have trouble fell free to contact me at: https://steamcommunity.com/prof
 For more info check this blogpost: http://inakistuff.blogspot.com/2013/08/gmodviewmodels.html
 
 Notes for people who care and want to make them better:
-The Smg is missing the crosshair
 The Crossbow is not compiling
 The Crowbar attact end pose is not corresponding to the idle pose(thats from retail but still bugs me)
 The Slam bones are very far away instead of being in the center of the weapon and pivot of the flip thingy, that makes the model jerk up when blending from one state of anim to another.
